@@ -226,6 +226,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
   walkSpeed: 5
+  stepLength: 0.512
+  stepLocation: {x: 0, y: 0, z: 0}
+  canMove: 1
 --- !u!1 &241759519
 GameObject:
   m_ObjectHideFlags: 0
